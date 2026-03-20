@@ -1,0 +1,174 @@
+* body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: white;
+}
+
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    position: relative;
+    background-color: rgba(248, 234, 218, 0.185);
+    padding: 20px;
+    padding-right: 20px;
+    word-wrap: break-word;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 8px 0;
+}
+
+header a {
+    color: rgb(155, 27, 48);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    border-right: 1px solid rgb(155, 27, 48);
+    padding-right: 30px;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+    width: 35%;
+    height: auto;
+}
+
+.barra-lateral {
+    background-color: antiquewhite;
+    width: 35%;
+    box-sizing: border-box;
+}
+
+.barra-lateral h2 {
+    padding: 12px;
+    line-height: 2.0;
+    /* altura entre linhas para melhor leitura */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(155, 27, 48);
+    text-align: center;
+        text-align: left;
+}
+
+.barra-lateral li {
+    line-height: 1.6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: dimgray;
+}
+
+.habilidades-lateral li {
+    text-align:justify;
+    padding-right: 20px;
+}
+
+.infoadd-lateral p {
+    padding-right: 20px;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.info-topo-direita h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(155, 27, 48);
+    position: absolute;
+    float: left;
+    top: 6px;
+    right: 80px;
+    left: 400px;
+}
+
+.info-topo-direita h3{
+    position: absolute;
+    float: left;
+    top: 60px;
+    bottom: 60px;
+    right: 80px;
+    left: 400px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(128, 128, 128, 0.74);
+}
+
+.sobremim-topo-direita {
+    position: absolute;
+    float: left;
+    top: 143px;
+    right: 80px;
+    left: 400px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    border-radius: 10px;
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sobremim-topo-direita h2{ 
+    padding-top: 2px;
+    color: rgb(155, 27, 48);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sobremim-topo-direita p {
+    color: rgba(138, 135, 135, 0.884);
+}
+
+.conteúdo-principal-direita {
+    position: absolute;
+    float: left;
+    top: 470px;
+    right: 80px;
+    left: 400px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    background-color: rgb(155, 27, 48);
+}
+
+.conteúdo-principal-direita h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+
+.conteúdo-principal-direita h3{
+font-family:Arial, Helvetica, sans-serif;
+color: bisque;
+}
+
+.conteúdo-principal-direita p{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgba(233, 230, 230, 0.849);
+}
+
+.conteúdo-principal02-direita {
+    position: absolute;
+    float: left;
+    top: 1418px;
+    right: 80px;
+    left: 400px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    background-color: antiquewhite;
+}
+
+.conteúdo-principal02-direita h2{
+    color: rgb(155, 27, 48);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.conteúdo-principal02-direita p {
+    color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
