@@ -5,5 +5,5 @@
 - Nome: Luísa Braga Nery de Lima
 - Matricula: 925424
 
-![Print do navegador](printnavegador.png)
+![Print do navegador](printCSSPURO.png)
 
