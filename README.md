@@ -11,6 +11,7 @@ Imagem do esboço (wireframe):
 ![WireFrame-Homepage](WIREFRAMEHOMEPAGE.png)
 
 Print da home-page criada para o projeto:
-![Homepagepronta] (printhomepage1.png)
 
-![Homepagepronta2] (printhomepage22.png)
+![Homepagepronta](printhomepage1.png)
+
+![Homepagepronta2](printhomepage2.png)
